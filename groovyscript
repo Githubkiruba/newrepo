@@ -7,7 +7,7 @@ import groovy.json.JsonOutput
 import java.net.URL
 
 // checking for webhook
-//check1
+//check12
 node{
     stage('pull code'){
 	git 'https://github.com/Githubkiruba/DevOpsClassCodes.git'
